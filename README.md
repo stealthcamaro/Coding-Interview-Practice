@@ -11,3 +11,4 @@ A collection of algorithms and data structures to prepare for technical intervie
 | **Reverse String** | Two Pointers | $O(N)$ | $O(1)$ | ✅ Complete |
 | **FizzBuzz** | Mathematical Logic | $O(N)$ | $O(1)$ | ✅ Complete |
 | **Valid Anagram** | Frequency Array | $O(N)$ | $O(1)$ | ✅ Complete |
+| **Move Zeroes** | Two Pointers (In-Place) | $O(N)$ | $O(1)$ | ✅ Complete |
