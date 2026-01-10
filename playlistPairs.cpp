@@ -17,7 +17,7 @@ int numPairsDivisibleBy60(vector<int> &time){
     for(int t : time) {
         int r = t % 60; // Get the remainder
 
-        // Logic: Find the complement that comples the minute
+        // Logic: Find the complement that completes the minute
         // If r is 0, we need 0. If r is 20, we need 40 and so on..
         int target = (r == 0) ? 0 : 60 - r;
 
