@@ -2,6 +2,9 @@
 // to find pairs of songs whose total duration is divisible by 60 i.e. the
 // durations add up to a perfectly whole minute
 
+// Time Complexity: O(N)
+// Space Complexity: O(1)
+
 // Input: [30, 20, 150, 100, 40]
 // Output: 3 (30+150, 20+100, 20+40)
 
