@@ -30,5 +30,5 @@ int missingInteger(vector<int> &A) {
     }
 
     return 1; // This line should technically be unreachable due to the loop limit
-              // but it is good practice to leave it here as a fallback.
+              // but it is good practice to leave it here as a fallback. 
 }
