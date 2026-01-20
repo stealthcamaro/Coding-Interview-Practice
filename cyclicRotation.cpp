@@ -1,6 +1,6 @@
 // This is a work smarter, not harder problem where the testing inputs could make
 // the time/space complexities skyrocket. The solution to this puzzle is based on
-// using the modulo operator and an array 
+// using the modulo operator and an array
 
 #include <iostream>
 #include <vector>
