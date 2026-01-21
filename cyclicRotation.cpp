@@ -4,7 +4,7 @@
 
 #include <iostream>
 #include <vector>
-
+ 
 using namespace std;
 
 vector<int> cyclicRotation(vector<int> &A, int K) {
