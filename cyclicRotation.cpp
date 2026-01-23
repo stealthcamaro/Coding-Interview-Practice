@@ -35,3 +35,8 @@ vector<int> cyclicRotation(vector<int> &A, int K) {
 
     return result; // final answer
 }
+
+int main() {
+
+    return 0;
+}
