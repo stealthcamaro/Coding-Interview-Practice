@@ -16,7 +16,7 @@ vector<int> cyclicRotation(vector<int> &A, int K) {
     int N = A.size();
     // Trap 2: Optimization for a huge K
     K = K % N;
-
+ 
     // If K is 0 after modulo, no change is needed!
     if (K == 0) {
         return A;
